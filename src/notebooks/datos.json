@@ -1,0 +1,54 @@
+{
+        "PMID": {
+            "#text": "37910152"
+        },
+        "DateRevised": {
+            "Year": "2023",
+            "Month": "11",
+            "Day": "01"
+        },
+        "Article": {
+            "Journal": {
+                },
+                "Title": "The British journal of psychiatry : the journal of mental science",
+                "ISOAbbreviation": "Br J Psychiatry"
+            },
+            "ArticleTitle": "Catching the threads: caregiving in Alzheimers disease."
+            },
+            "ELocationID": {
+                "@EIdType": "doi",
+                "@ValidYN": "Y",
+                "#text": "10.1192/bjp.2023.114"
+            },
+            "Abstract": {
+                "AbstractText": "As someone who has researched the effects on carers living with people with severe psychiatric disorders, the author describes her own recent experience of being a carer. The article serves as a companion piece to her psychiatrist husband"s account of his cognitive decline in Alzheimer"s disease."
+            },
+            "AuthorList": {
+                    "Author": {
+                    "LastName": "Kuipers",
+                    "ForeName": "Elizabeth",
+                    "Initials": "E",
+
+                    },
+                    "AffiliationInfo": {
+                    "KeywordList": {
+                        "Keyword": [
+                            {
+                            "#text": "Dementias/neurodegenerative diseases"
+                            },
+                            {
+                                "#text": "carers"
+                            },
+                            {
+                                "#text": "organic syndromes"
+                            },
+                            {
+                                "#text": "psychosocial interventions"
+                            },
+                            {
+                                "#text": "stigma"
+                            }
+                        ]
+                    }
+                },
+                    }
